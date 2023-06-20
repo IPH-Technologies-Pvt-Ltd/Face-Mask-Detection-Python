@@ -50,3 +50,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 ![Screenshot 2022-10-12 at 2 09 27 AM](https://user-images.githubusercontent.com/78723011/195432070-1f361799-6455-4127-b586-938a74b7e53a.png)
 ![Screenshot 2022-10-12 at 2 07 32 AM](https://user-images.githubusercontent.com/78723011/195432216-d4d012bf-2400-4d4b-8273-8739c6198488.png)
 
+
+https://github.com/IPH-Technologies-Pvt-Ltd/Face-Mask-Detection-Python/assets/126752734/5cfd400f-ed69-4e18-a77c-83a61534bc90
+

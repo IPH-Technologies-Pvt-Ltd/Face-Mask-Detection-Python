@@ -1,10 +1,10 @@
-# Face Detection in Python
+# Face Mask Detection in Python
 
 This is a README file that provides instructions on how to perform face detection in Python using the OpenCV library.
 
 ## Requirements
 
-To run the face detection code, you need the following:
+To run the face mask detection code, you need the following:
 
 1. Python 3.x: Make sure you have Python 3.x installed on your system.
 2. OpenCV: Install the OpenCV library by running the following command:
